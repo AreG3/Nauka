@@ -13,6 +13,8 @@ public class Live {
 
         System.out.println("Oto imie: " + person.getName());
 
+        System.out.println("Oto nazwisko: " + person.getLastName());
+
     }
 
 }
