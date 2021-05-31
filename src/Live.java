@@ -11,6 +11,8 @@ public class Live {
 
         System.out.println("Oto wiek: " + person.getAge());
 
+        System.out.println("Oto imie: " + person.getName());
+
     }
 
 }
